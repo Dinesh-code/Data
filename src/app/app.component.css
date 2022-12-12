@@ -1,0 +1,13 @@
+.table tr td {
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+}
+.bold{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    background-color:black;
+    
+}   
